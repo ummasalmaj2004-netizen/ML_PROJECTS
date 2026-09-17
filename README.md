@@ -1,50 +1,77 @@
-# Machine Learning Projects
+# Python & Machine Learning Projects
 
-Welcome to my **Machine Learning Projects** repository.
+Welcome to my **Python & Machine Learning Projects** repository.
 
-This repository contains my projects and practical work as I continue developing my skills in **Machine Learning, Data Analysis, and Exploratory Data Analysis (EDA)**.
+This repository contains my practical work as a **Data Science student**, combining Python programming, data analysis, and Machine Learning.
 
-## What I Will Work On
+My goal is to build projects using **real-world datasets** and apply Python and Machine Learning techniques to solve practical problems.
 
-I will use this repository to build projects using **real-world datasets** and apply machine learning and data analysis techniques to solve practical problems.
+## What I Work With
 
-The projects may include:
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Data visualization
-* Feature engineering
-* Machine Learning models
-* Model evaluation
-* Prediction and forecasting
-* Clustering and pattern discovery
-* Real-world data analysis
-
-## Technologies
+### Python
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn
 * Jupyter Notebook
-* SQL
+
+### Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Classification
+* Regression
+* Clustering
+* Anomaly Detection
+* Time Series Forecasting
+* Model Evaluation
+
+### Data Science
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
+* Data Preprocessing
+* Pattern Analysis
 
 ## Projects
 
-I will continuously add new Machine Learning and Data Science projects to this repository as I learn and gain more practical experience.
+I will continuously add new projects to this repository as I develop my Python and Machine Learning skills.
 
-Each project will include the dataset, analysis, implementation, and results where possible.
+Current projects include:
+
+* **Anomaly Detection**
+* **Superstore Market Basket Analysis**
+* **Time Series Forecasting**
+* **Clustering**
+
+Future projects will focus on solving real-world problems using Python, EDA, and Machine Learning.
 
 ## Certificates
 
-I will also upload my relevant **Machine Learning** and **Exploratory Data Analysis (EDA)** certificates to this repository as part of my learning portfolio.
+I will also upload relevant certificates related to my learning journey, including:
 
-## Goal
+* Machine Learning
+* Exploratory Data Analysis (EDA)
+* Python
+* Data Science
 
-My goal is to use this repository to demonstrate my ability to work with real-world data, apply Machine Learning and EDA techniques, and continuously improve my Data Science skills.
+## My Goal
+
+The purpose of this repository is to document my learning journey and demonstrate my ability to:
+
+* Work with real-world data
+* Use Python for data analysis
+* Perform EDA
+* Build and evaluate Machine Learning models
+* Solve practical data problems
+* Continuously improve my Data Science skills
+
+This repository will grow as I learn, build, and work with more real-world datasets.
 
 ---
 
-**Data Science Student | Machine Learning | Data Analysis | Python**
+**Data Science Student | Python | Machine Learning | Data Analysis | EDA**
